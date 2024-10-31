@@ -1,0 +1,2 @@
+msgid "<strong>ERROR</strong>: Invalid credentials."
+msgstr "<strong>ERROR</strong>: Credenciales no válidas."
